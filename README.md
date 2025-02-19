@@ -1,4 +1,4 @@
-  - Hi, Antoine here, I’m an intern at **GREYC** in the University of Caen, France. 
+  - Hi, Antoine here, I’m a PhD student at **GREYC** in the University of Caen, France. 
   - I’m interested in **cryptography**, based on **lattices**, using funny tools like **zero-knowledge proofs**, and others things.
   - Feel free to send me a message on antoine(dot)douteau(at)unicaen(dot)fr 
 
